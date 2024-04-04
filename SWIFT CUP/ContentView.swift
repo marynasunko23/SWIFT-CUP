@@ -178,11 +178,12 @@ struct ContentView: View {
             
         }
         
-        //       PERERASCHET SUGAR LB - CUP
+       
         
         
         
         HStack{
+            
             
             TextField ("oz", value:$sugarOz, formatter:
                         NumberFormatter())
