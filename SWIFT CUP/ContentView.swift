@@ -210,7 +210,7 @@ struct ContentView: View {
         }
         
         Spacer()
-        //       PERERASCHET FLUOR GR - CUP
+        
         
         HStack{
             
